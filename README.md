@@ -23,13 +23,3 @@ This project demonstrates the application of key OOP principles:
 - **Polymorphism**
 - **Abstraction**
 
-## 🚀 How to Run
-
-To run this application, ensure that the **Java Development Kit (JDK)** is installed on your machine.
-
-### 1. Compile the Source Files
-
-Open your terminal or command prompt, navigate to the root folder of the project (`oop-employee-management-main`), and execute the following command:
-
-```bash
-javac *.java Data/*.java ClassDiagram/*.java
